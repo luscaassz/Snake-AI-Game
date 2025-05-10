@@ -17,6 +17,7 @@ O objetivo é treinar um agente para maximizar a pontuação com o tempo, aprend
 ├── model.py     # Arquitetura da rede neural utilizada pelo agente
 ├── game.py      # Lógica do jogo (Pygame)
 ├── helper.py    # Funções auxiliares (plotagens)
+├── arial.ttf    # Arquivo de fonte
 └── README.md    # Este arquivo
 ```
 
