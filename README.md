@@ -4,7 +4,7 @@ Este projeto implementa o clássico **Jogo da Cobrinha (Snake Game)**, onde a co
 
 O objetivo é treinar um agente para maximizar a pontuação com o tempo, aprendendo a se mover estrategicamente e evitar colisões.
 
-                                  ![Tela do Jogo](https://github.com/user-attachments/assets/e0269c25-2ff2-463b-b35f-5ee4eaf3c03c)
+![Tela do Jogo](https://github.com/user-attachments/assets/e0269c25-2ff2-463b-b35f-5ee4eaf3c03c)
 
 ---
 
